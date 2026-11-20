@@ -1,0 +1,5 @@
+Protocol,ML_Prediction,Records
+TCP,Normal,37380
+TCP,TCP SYN Flood,11635
+UDP,Normal,5756
+UDP,UDP Flood,182

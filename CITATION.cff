@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: If you use this project, please cite the authors listed here.
+type: software
+title: Network Sentinel
+authors:
+- family-names: Edupalli
+  given-names: Pardha Saradhi
+  affiliation: University of Cincinnati
+  website: https://github.com/Pardhu0911
+- family-names: Undi
+  given-names: Lakshmi Aishwarya
+  affiliation: University of Cincinnati
+repository-code: https://github.com/Pardhu0911/network-sentinel
+url: https://github.com/Pardhu0911/network-sentinel
